@@ -2,24 +2,24 @@
 
 # 감정 데이터
 
-## AI HUB 감성 대화 말뭉치
+- AI HUB 감성 대화 말뭉치
 
-https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=86
+  - https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=86
 
-- filtered_corpus_data.xlsx
+  - filtered_corpus_data.xlsx
 
-## chatbot data
+- chatbot data
 
-https://github.com/songys/Chatbot_data?tab=readme-ov-file
+  - https://github.com/songys/Chatbot_data?tab=readme-ov-file
 
-- filtered_love.xlsx
+  - filtered_love.xlsx
 
-## 직접 생성
+- chatGPT로 직접 생성
 
-- filtered_lonely.xlsx
+  - filtered_lonely.xlsx
 
 # 노래 가사 데이터
 
-## 멜론 크롤링
+    - 멜론 플레이리스트 크롤링
 
-- lyrics.xlsx
+        - lyrics.xlsx
